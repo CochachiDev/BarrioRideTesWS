@@ -1,0 +1,32 @@
+# Archivos del sistema y Gradle
+*.iml
+.gradle
+.kotlin
+/local.properties
+/.idea/
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+.env
+debug.keystore
+
+# .NET 8 / ASP.NET Core
+bin/
+obj/
+backend/bin/
+backend/obj/
+.vs/
+*.user
+*.userosscache
+*.sln.docstates
+appsettings.Development.json
+appsettings.Local.json
+
+# Flutter (si aplica)
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/

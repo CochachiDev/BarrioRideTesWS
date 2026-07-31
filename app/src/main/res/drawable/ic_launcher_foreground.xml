@@ -1,0 +1,30 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Trimoto cabin & wheels silhouette centered within safe zone -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M38,40 C38,36 42,32 54,32 C66,32 70,36 70,40 L74,62 C74,66 70,68 66,68 L42,68 C38,68 34,66 34,62 Z" />
+    <!-- Front wheel -->
+    <path
+        android:fillColor="#0F172A"
+        android:pathData="M51,70 L57,70 L57,78 L51,78 Z" />
+    <!-- Rear Left wheel -->
+    <path
+        android:fillColor="#0F172A"
+        android:pathData="M32,58 L36,58 L36,70 L32,70 Z" />
+    <!-- Rear Right wheel -->
+    <path
+        android:fillColor="#0F172A"
+        android:pathData="M72,58 L76,58 L76,70 L72,70 Z" />
+    <!-- Windshield -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M42,36 L66,36 L64,48 L44,48 Z" />
+    <!-- Electric Bolt -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M55,50 L50,57 L54,57 L53,64 L58,57 L54,57 Z" />
+</vector>
